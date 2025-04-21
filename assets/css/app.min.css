@@ -505,18 +505,6 @@
         --vz-secondary-border-subtle:rgba(241, 207, 163, 0.3);
         --vz-secondary-text-emphasis:#b59b7a
     }
-    [data-theme=corporate][data-theme-colors=orange]{
-        --vz-primary:#ff7f5d;
-        --vz-primary-rgb:255,127,93;
-        --vz-primary-bg-subtle:rgba(255, 127, 93, 0.15);
-        --vz-primary-border-subtle:rgba(255, 127, 93, 0.3);
-        --vz-primary-text-emphasis:#bf5f46;
-        --vz-secondary:#ff7f5d;
-        --vz-secondary-rgb:255,127,93;
-        --vz-secondary-bg-subtle:rgba(255, 127, 93, 0.15);
-        --vz-secondary-border-subtle:rgba(255, 127, 93, 0.3);
-        --vz-secondary-text-emphasis:#bf5f46
-    }
     [data-theme=corporate][data-theme-colors=purple]{
         --vz-primary:#9b5de5;
         --vz-primary-rgb:155,93,229;
